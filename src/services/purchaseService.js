@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const purchaseService = axios.create({
-  baseURL: "http://localhost:5001/api/purchase",
+  baseURL: "http://192.168.1.8:5001/api/purchase",
   headers: {
     "Content-Type": "application/json",
   },
