@@ -36,19 +36,19 @@ const VendorDashboard = () => {
       <div className="col-md-8">
         <div className="vendor-dashboard-top-card">
           <div className="g-3">
-            <div className="card vendor-dashboard-stat-card justify-content-center align-items-start">
+            <div className="vendor-dashboard-stat-card justify-content-center align-items-start">
               <h6>Incoming Quotes</h6>
               <h3>125</h3>
             </div>
           </div>
           <div className="g-3">
-            <div className="card vendor-dashboard-stat-card justify-content-center align-items-start">
+            <div className="vendor-dashboard-stat-card justify-content-center align-items-start">
               <h6>Approved Quotes</h6>
               <h3>85</h3>
             </div>
           </div>
           <div className="g-3">
-            <div className="card vendor-dashboard-stat-card justify-content-center align-items-start">
+            <div className="vendor-dashboard-stat-card justify-content-center align-items-start">
               <h6>Rejected Quotes</h6>
               <h3>40</h3>
             </div>

@@ -1539,7 +1539,7 @@
   border: none;
 }
 .pi-table-head th {
-  background-color: #D9E3F7;
+  background-color: #D9E3F7 !important;
   font-size: 10px !important;
 }
 .pi-head th {

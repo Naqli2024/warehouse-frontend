@@ -49,7 +49,7 @@ const VendorRFQTable = ({ matchedItems = [], onQuotePriceChange }) => {
           <Table bordered>
             <thead>
               <tr className="pi-table-head">
-                <th colSpan="16">
+                <th colSpan="11" >
                   <div className="pi-table-header-row">
                     <span>Item Master</span>
                   </div>
